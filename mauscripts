@@ -6,7 +6,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 })
 local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/Library-ui/refs/heads/main/Redzhubui"))()
 local Window = redzlib:MakeWindow({
-    Title = "Grow A Garden",
+    Title = "Grow A Garden ",
     SubTitle = "1.0",
     SaveFolder = "DingaHub"
 })
