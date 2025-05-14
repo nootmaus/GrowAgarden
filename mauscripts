@@ -1,7 +1,7 @@
 setclipboard("https://t.me/DingaScripts")
 game:GetService("StarterGui"):SetCore("SendNotification",{
  Title = "Уведомление",
- Text = "Скрипт взят с ТГК Mauscripts! Подписывайся",
+ Text = "Скрипт взят с ТГК Mauscripts! Подписывsssssайся",
  Icon = "rbxassetid://116318625324253"
 })
 local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/Library-ui/refs/heads/main/Redzhubui"))()
